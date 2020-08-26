@@ -9,7 +9,7 @@ function App() {
       <div className={"container-fluid hero"}>
         <div className={"row"}>
           <div className={"col-sm-12 d-flex justify-content-center align-items-center"}>
-            <img src={"/images/hero.jpg"}/>
+            <img src={"https://i.ibb.co/jgH0SvC/hero.jpg"}/>
             <div className={"container"}>
               <div className={"row"}>
                 <h1>RestoQR</h1>
@@ -44,7 +44,7 @@ function App() {
             </div>
           </div>
           <div className={"col-md-6 col-sm-12"}>
-            <img src={"/images/example.jpeg"}/>
+            <img src={"https://i.ibb.co/V3bQLRB/example.jpg"}/>
           </div>
         </div>
       </div>
@@ -53,7 +53,7 @@ function App() {
       <div className={"container example"}>
         <div className={"row"}>
           <div className={"col-md-6 col-sm-12"}>
-            <img src={"/images/main.png"}/>
+            <img src={"https://i.ibb.co/JtLbn7C/main.png"}/>
           </div>
           <div className={"col-md-6 col-sm-12 d-flex justify-content-center align-items-center"}>
             <div className={"boxer text-center"} >
@@ -76,7 +76,7 @@ function App() {
             </div>
           </div>
           <div className={"col-md-6 col-sm-12"}>
-            <img src={"/images/item.png"}/>
+            <img src={"https://i.ibb.co/ZKZ7DhV/item.png"}/>
           </div>
         </div>
       </div>
