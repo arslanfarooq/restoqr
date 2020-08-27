@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/restoqr/static/css/main.59fe9c58.chunk.css",
-    "main.js": "/restoqr/static/js/main.8ac359d8.chunk.js",
-    "main.js.map": "/restoqr/static/js/main.8ac359d8.chunk.js.map",
+    "main.js": "/restoqr/static/js/main.68b6f911.chunk.js",
+    "main.js.map": "/restoqr/static/js/main.68b6f911.chunk.js.map",
     "runtime-main.js": "/restoqr/static/js/runtime-main.36655161.js",
     "runtime-main.js.map": "/restoqr/static/js/runtime-main.36655161.js.map",
     "static/js/2.ca13c592.chunk.js": "/restoqr/static/js/2.ca13c592.chunk.js",
     "static/js/2.ca13c592.chunk.js.map": "/restoqr/static/js/2.ca13c592.chunk.js.map",
     "index.html": "/restoqr/index.html",
-    "precache-manifest.337cc18fdc0557c256fad4b82fa40a92.js": "/restoqr/precache-manifest.337cc18fdc0557c256fad4b82fa40a92.js",
+    "precache-manifest.550c234de15baef8444dfc8d6be5ae52.js": "/restoqr/precache-manifest.550c234de15baef8444dfc8d6be5ae52.js",
     "service-worker.js": "/restoqr/service-worker.js",
     "static/css/main.59fe9c58.chunk.css.map": "/restoqr/static/css/main.59fe9c58.chunk.css.map",
     "static/js/2.ca13c592.chunk.js.LICENSE.txt": "/restoqr/static/js/2.ca13c592.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.36655161.js",
     "static/js/2.ca13c592.chunk.js",
     "static/css/main.59fe9c58.chunk.css",
-    "static/js/main.8ac359d8.chunk.js"
+    "static/js/main.68b6f911.chunk.js"
   ]
 }
